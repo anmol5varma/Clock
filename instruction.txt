@@ -1,0 +1,5 @@
+1. Open project Clock.
+2. Select one file from source and remove the other.
+3. Then execute the project. It displays the system time.
+
+Note: it is neccesary to remove one file from source before executing as a project cannot have two main functions.
